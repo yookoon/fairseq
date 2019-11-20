@@ -84,7 +84,7 @@ If you use Docker make sure to increase the shared memory size either with
 
 To install fairseq from source and develop locally:
 ```bash
-git clone https://github.com/pytorch/fairseq
+git clone https://github.com/yookoon/fairseq
 cd fairseq
 pip install --editable .
 ```
